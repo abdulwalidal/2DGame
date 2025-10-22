@@ -57,12 +57,8 @@ public class KeyHandler implements KeyListener {
         rightPressed = false;
         
     }
-        
-
-        
-        
+                
     }
-    
     
     
 }
