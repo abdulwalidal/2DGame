@@ -11,9 +11,6 @@ not out of disinterest, but out of purpose.
 I want to come back stronger, with better skills, a clearer direction, and a real understanding of what makes games feel alive.
 
 This repository will stay here as a small reminder of where it all began.  
-One day, I’ll return to it and continue —  
-piece by piece, line by line, until it becomes what I first imagined.  
-
 
 Sometimes, stepping back is part of moving forward.
 I’ll be back when it’s time to build something truly alive.
